@@ -1,0 +1,6 @@
+DIGITAL LOGIC SIMULATOR
+
+1.Run the program in intellij
+2.Click the text simulator to run the DLD simulator
+3.other instructions to use it are given 
+in the menubar(About->help)
